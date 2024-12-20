@@ -368,3 +368,4 @@ FodyWeavers.xsd
 .vs/Elevator/v17/.futdcache.v1
 node_modules
 test-results
+playwright-report
