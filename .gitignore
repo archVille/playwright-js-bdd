@@ -2,12 +2,6 @@ node_modules/
 .features-gen/
 playwright-report/
 
-# Ionide (cross platform F# VS Code tools) working folder
-.ionide/
-
-# Fody - auto-generated XML schema
-FodyWeavers.xsd
-.DS_Store
 node_modules
 test-results
 playwright-report
