@@ -358,14 +358,16 @@ healthchecksdb
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 
+.features-gen/
+playwright-report/
+
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 .DS_Store
-.vs/Elevator/v17/.suo
-.vs/Elevator/v17/.futdcache.v1
 node_modules
 test-results
 playwright-report
+.features-gen

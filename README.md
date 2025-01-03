@@ -18,7 +18,21 @@ npx playwright install
 npm test
 ```
 
-### Report:
+Run  test in UI mode
+
+```
+npx playwright test --ui
+```
+
+Run  test in headed mode
+
+
+```
+npx playwright test --headed
+```
+
+
+### Report: :+1
 
 ```
 npm run report
@@ -28,7 +42,7 @@ npm run report
 
 
 
-### Test Reports :EMOJICODE:
+### Test Reports :+1
 
 There will be a new page displayed for reports in http://localhost:9323/
 where we can have a view of the test results 
